@@ -1,0 +1,13 @@
+.heading {
+    color:maroon;
+    text-align:center;
+}
+
+/*CSS for category table*/
+
+#table-category, .td {
+    align-:center;
+    border: 1px solid black;
+    padding:5px;
+    
+}
